@@ -1,5 +1,5 @@
 # New-youpass-frontend
-Project frontend for JavaEE Course Design 2021 Autumn | TJU
+Project frontend for JavaEE Course Design 2021 Fall | TJU
 ## Project setup
 ```
 npm install
